@@ -5,5 +5,6 @@ public class Main {
         KasteTerning kaste = new KasteTerning();
 
         System.out.println(kaste.sum());
+
     }
 }
